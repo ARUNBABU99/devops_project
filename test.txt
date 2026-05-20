@@ -1,2 +1,3 @@
 testing cloud build trigger..........
 testing with no ingress
+testing with only home ip ingress in vpc sc 
